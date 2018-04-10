@@ -1,0 +1,4 @@
+contract hyperledger {
+  function hello_world() {
+  }
+}
